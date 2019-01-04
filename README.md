@@ -1,7 +1,7 @@
 # TinyCircuits-TinyShield-Servo-Driver-ASD2303
-# ASM2303 Rev3
+# ASD2303 Rev3
 
-These are the design files for the TinyCircuits ASM2021 Rev 3 PCB.  This is a TinyShield (Square Version, 20mm x 20mm) that can drive up to four servos at a time.  
+These are the design files for the TinyCircuits ASD2021 Rev 3 PCB.  This is a TinyShield (Square Version, 20mm x 20mm) that can drive up to four servos at a time.  
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
