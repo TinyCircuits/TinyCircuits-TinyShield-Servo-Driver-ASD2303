@@ -1,5 +1,5 @@
 /*
-  TinyCircuits Servo Controller Basic Example
+  TinyCircuits Servo Driver TinyShield Example
   
   This example code shows basic usage of the ASD2303 servo Controller TinyShield.
   The library intance is created with the hardware address of the servo controller
